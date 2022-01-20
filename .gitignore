@@ -1,0 +1,4 @@
+# Editor directories
+.idea
+.vscode
+*.iml
