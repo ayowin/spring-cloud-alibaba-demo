@@ -331,7 +331,7 @@ java -jar sentinel-dashboard-${VERSION}.jar
 java -Dserver.port=xxx -jar sentinel-dashboard-${VERSION}.jar  
 ```
 
-* **${VERSION}**为实际的版本号，本demo使用的是1.8.2版本。
+* **${VERSION}** 为实际的版本号，本demo使用的是1.8.2版本。
 
 ### 2. 管理
 
