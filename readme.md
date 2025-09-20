@@ -337,7 +337,7 @@ java -Dserver.port=xxx -jar sentinel-dashboard-${VERSION}.jar
 
 * url示例: [http://127.0.0.1:8080](http://127.0.0.1:8080)，非部署机器请替换正确的ip地址和端口号。
 * 用户名和密码均为：sentinel
-
+* 因sentinel需要对服务进行监测，在未对服务发生任何请求之前，直接访问sentinel控制台面板可能为空，对服务发起任意一次请求即可。
 
 
 ---
